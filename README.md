@@ -22,7 +22,7 @@
 
 - 📫 How to reach me 
   - Email ID = **rajarshidas47@gmail.com**
-  - Phone Number = **8620864850**
+  <!-- - Phone Number = **8620864850** -->
 
 - ⚡ What i believe =  ***সবচেয়ে মূল্যবান ও একমাত্র সমাধানগুলো মানুষ নিজেই খুঁজে বের করতে পারে।.***
 
