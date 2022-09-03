@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajarshi</h1>
-<h3 align="center">Passionate about Problem Solving and Coding.</h3>
+<h3 align="center">Passionate about Problem Solving, Coding and Development.</h3>
 <h3 align="center">From West Bengal, India.🌏</h3>
 
 
