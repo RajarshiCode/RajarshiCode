@@ -1,13 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajarshi</h1>
 <h3 align="center">Passionate about Problem Solving, Coding and Development.</h3>
 <h3 align="center">From West Bengal, India.🌏</h3>
-
-
 # 🙋‍♂️ About Me
-
 - 🔭 I’m currently a Student at **University of Engineering and Management, Kolkata.**
 - 🔭 Passed my 10+2 from **Methodist School, Dankuni.**
-
 - 🌱 I’m currently learning:-
   -  **Data Structures and Algorithms.**
   -  **Design and Analysis of Algorithm.**
