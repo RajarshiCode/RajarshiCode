@@ -24,7 +24,7 @@
   - Email ID = **rajarshidas47@gmail.com**
   <!-- - Phone Number = **8620864850** -->
 
-- ⚡ What i believe =  ***সবচেয়ে মূল্যবান ও একমাত্র সমাধানগুলো মানুষ নিজেই খুঁজে বের করতে পারে।.***
+- ⚡ What i believe =  ***The most valuable and only solutions can be found by the man himself.***
 
 # 🚀 Languages and Tools:
 
