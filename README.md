@@ -1,2 +1,2 @@
 ### [Let's Get Connected 🤝🏻](https://bio.link/rajarshicode)  
-![Visitors](https://api.visitorbadge.io/api/visitors?path=RajarshiCode&label=Visitors&countColor=%232ccce4&style=flat-square&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=RajarshiCode&countColor=%23263759)
