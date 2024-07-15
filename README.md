@@ -3,4 +3,4 @@
 
 
 > [!IMPORTANT]
-> In Java, the byte type is signed.
+> **In Java, the byte type is signed.**
